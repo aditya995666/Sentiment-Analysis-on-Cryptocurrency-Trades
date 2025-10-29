@@ -1,5 +1,5 @@
 # Slide 1: Title Slide
-# Bitcoin Market Analysis and Price Prediction
+# Bitcoin Market Analysis 
 
 # Slide 2: Introduction
 # Project Goal:
@@ -145,3 +145,4 @@ Key Takeaways:
 Market sentiment (Fear & Greed Index) is a valuable indicator for understanding trading behavior, profitability, and average trade size.
 
 "Extreme Greed" and "Fear" periods present distinct opportunities for profitability.
+
